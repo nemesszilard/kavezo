@@ -1,3 +1,6 @@
 # Lucky kávézó
-# hh
-# jhh
+# Tervezés : Mindenki
+# HTML, CSS, Bootstrap : Szilárd, Zsolt
+# Képek: Mindenki
+# Szöveg : Ádám
+# 
