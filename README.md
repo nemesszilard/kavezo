@@ -1,7 +1,5 @@
 # Lucky kávézó
-# Előkészületek: Mindenki
-#   Honlap megtervezése lapon
-# Munkálatok:
-#   Szerkesztés HTML, CSS, Bootstrap segytségével: Szilárd, Zsolt
-#   Képek keresése: Mindenki
-#   Szöveg megírása: Ádám
+# Tervezés : Mindenki
+# HTML, CSS, Bootstrap : Szilárd, Zsolt
+# Képek: Mindenki
+# Szöveg : Ádám
