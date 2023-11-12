@@ -1,14 +1,28 @@
-#box {
-    background-color: lightgrey;
-    width: 99%;
-    max-height: auto;
-    border: 5px solid green;
-    padding: 10px;
-    margin: 5px;
-}
 body{
     background-image: url('/images/hatter.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
 }
+
+#box {
+    background-color: lightgrey;
+    width: 99%;
+    max-height: auto;
+    border: 3px solid black;
+    border-radius: 50px;
+    padding: 20px;
+    margin: 5px;
+    margin-bottom: 10px;
+}
+
+h1, footer{
+    padding: 10px;
+}
+
+.card{
+    padding: 15px;
+    margin: 25px;
+    margin-left: 65px;
+}
+
