@@ -23,6 +23,8 @@ h1, footer{
 .card{
     padding: 15px;
     margin: 25px;
-    margin-left: 65px;
+    max-width: 100%;
+    height: auto;
+    display: block;
 }
-
+    
